@@ -1,2 +1,2 @@
 # Fullstack-dev
-Front-end projects directory
+Clement complete ts projects
