@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "68a85eed876a11a85d71b046"
+  },
+  "title": "Task 1",
+  "description": "Task 1",
+  "status": "todo",
+  "priority": "normal",
+  "dueDate": {
+    "$date": "2025-08-26T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-22T12:13:33.247Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T12:14:44.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a85f02876a11a85d71b04d"
+  },
+  "title": "Task 2",
+  "description": "Task 2",
+  "status": "completed",
+  "priority": "normal",
+  "dueDate": {
+    "$date": "2025-08-26T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-22T12:13:54.126Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T12:15:02.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a85f19876a11a85d71b054"
+  },
+  "title": "Task 3",
+  "description": "Task 3",
+  "status": "todo",
+  "priority": "high",
+  "dueDate": {
+    "$date": "2025-08-24T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-22T12:14:17.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T12:14:53.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a860cf876a11a85d71b0af"
+  },
+  "title": "Task 4",
+  "description": "Task 4",
+  "status": "completed",
+  "priority": "normal",
+  "dueDate": {
+    "$date": "2025-09-03T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-22T12:21:35.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T12:23:42.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a86110876a11a85d71b0c0"
+  },
+  "title": "Task 5",
+  "description": "Task 5",
+  "status": "todo",
+  "priority": "low",
+  "dueDate": {
+    "$date": "2025-08-26T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-22T12:22:40.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T12:23:24.130Z"
+  },
+  "__v": 0
+}]
